@@ -1,4 +1,4 @@
-**# ATM Simulation (Java Console Application)
+# ATM Simulation (Java Console Application)
 
 ## Overview
 Simple console ATM simulator in Java demonstrating basic account operations: authentication, balance inquiry, deposit, withdraw, and transaction history.
